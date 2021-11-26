@@ -29,7 +29,5 @@ public class DoubleClick {
                 actions.doubleClick(button).perform();
             }
         }
-
-
     }
 }
