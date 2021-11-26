@@ -30,7 +30,5 @@ public class FileUploadIntro {
         WebElement fileName = driver.findElement(By.id("uploaded-files"));
         String actualFileName = BrowserUtils.getText(fileName);
         Assert.assertEquals(actualFileName, "usa.png");
-
     }
-
 }
