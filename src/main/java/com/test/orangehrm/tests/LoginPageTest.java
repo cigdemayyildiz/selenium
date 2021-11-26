@@ -27,5 +27,4 @@ public class LoginPageTest extends TestBase {
         loginPage.login(username, password);
         Assert.assertEquals(loginPage.getErrorMessage(), expected);
     }
-
 }
