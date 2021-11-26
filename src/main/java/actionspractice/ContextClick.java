@@ -18,6 +18,5 @@ public class ContextClick {
 
         Actions actions = new Actions(driver);
         actions.contextClick(box).perform();
-
     }
 }
