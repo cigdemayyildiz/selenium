@@ -71,6 +71,5 @@ public class DragAndDrop {
 
         Actions actions = new Actions(driver);
         actions.clickAndHold(draggable).moveToElement(blueBox).release().perform();
-
     }
 }
