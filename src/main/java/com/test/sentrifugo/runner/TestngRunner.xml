@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Runner Practice">
+    <test name="Sentrifugo Tests">
+        <classes>
+            <class name="com.test.sentrifugo.tests.DepartmentTest"></class>
+            <class name="com.test.sentrifugo.tests.GenderTest"></class>
+            <class name="com.test.sentrifugo.tests.LoginTest"></class>
+        </classes>
+    </test>
+
+    <test name="Select Class Tests">
+        <classes>
+            <class name="selectclass.Porsche"></class>
+            <class name="selectclass.FlightTicket"></class>
+            <class name="selectclass.MultipleSelect"></class>
+        </classes>
+    </test>
+
+</suite>

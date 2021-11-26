@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Etsy Runner">
+    <test name="Search Bar">
+        <parameter name="item" value="java programming mug"></parameter>
+        <parameter name="item1" value="gifts for him"></parameter>
+        <parameter name="searchText" value="gifts"></parameter>
+        <classes>
+            <class name="com.test.etsy.tests.HomePageTest">
+                <methods>
+                    <include name="etsySearchTest"></include>
+                    <include name="test"></include>
+                    <include name="test1"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
