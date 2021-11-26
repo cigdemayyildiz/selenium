@@ -55,5 +55,4 @@ public class AfterMethodAnnotation {
         System.out.println("It will run after each @Test annotation");
         driver.quit();
     }
-
 }
