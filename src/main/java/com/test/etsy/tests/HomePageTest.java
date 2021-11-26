@@ -16,9 +16,6 @@ public class HomePageTest extends TestBase {
         Assert.assertTrue(homePage.validateTitle());
     }
 
-    // homework: change validateTitle() method implementation that will work with all the search values.
-    // now it is working only with "java programming mug"
-
     @Test
     public void test() {
         HomePage homePage = new HomePage(driver);
@@ -32,6 +29,5 @@ public class HomePageTest extends TestBase {
         HomePage homePage = new HomePage(driver);
         homePage.searchItem(item1);
         Assert.assertTrue(homePage.validateTitle1(searchText));
-
     }
 }
