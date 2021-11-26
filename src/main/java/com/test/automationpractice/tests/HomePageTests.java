@@ -70,7 +70,5 @@ public class HomePageTests extends TestBase {
     public void test(){
         HomePage homePage = new HomePage(driver);
         homePage.getCheapestProductDiscountRate(homePage.getAllOldPrices(),homePage.getAllDiscountRates(),homePage.getCheapestProductOldPrice(homePage.getAllOldPrices()));
-
     }
-
 }
