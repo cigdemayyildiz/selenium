@@ -24,6 +24,5 @@ public class ExplicitlyWaitPrct {
         WebElement helloText = wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("finish"))));
 
         Assert.assertEquals(helloText.getText(), "Hello World!");
-
     }
 }
