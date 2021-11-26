@@ -39,5 +39,4 @@ public class SoftAssertIntro {
         System.out.println("test4");
         softAssert.assertAll("Soft assert failed");
     }
-
 }
