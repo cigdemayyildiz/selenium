@@ -14,8 +14,5 @@ public class MainTest extends TestBase {
 
         MainPage mainPage = new MainPage(driver);
         mainPage.clickPatientSearch();
-
-
     }
-
 }
