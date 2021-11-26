@@ -72,5 +72,4 @@ public class PatientFinderTest extends TestBase {
         String expectedSsnNumber = "333222333";
         Assert.assertEquals(actualSsnNumber,expectedSsnNumber, "SSN number validation");
     }
-
 }
