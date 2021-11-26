@@ -33,7 +33,5 @@ public class FluentWaitPrc {
 
         WebElement message = fluentWait.until(myDriver->driver.findElement(By.id("message")));
         System.out.println(message.getText());
-
     }
-
 }
