@@ -30,6 +30,5 @@ public class AlertConfirm {
         WebElement result = driver.findElement(By.id("result"));
         String resultText = result.getText().trim();
         Assert.assertEquals(resultText, "You clicked: Cancel", "result text validation");
-
     }
 }
