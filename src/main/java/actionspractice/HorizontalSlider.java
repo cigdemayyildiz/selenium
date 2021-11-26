@@ -27,8 +27,6 @@ public class HorizontalSlider {
         System.out.println(point.getX());
         System.out.println(point.getY());
 
-
-
         // source --> target
         // bir slider i saga sola hareket ettirebilmek icin bir kaynaga bir de hedefe ihtiyacimiz var
         // bunun icin slider i tam ortaya cekerek sifir noktasina ulasip o sekilde saga sola hareket ettirmemiz
