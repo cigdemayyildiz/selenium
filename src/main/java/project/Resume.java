@@ -9,8 +9,8 @@ public class Resume {
 
     public static void main(String[] args) throws InterruptedException {
 
-       WebDriver driver = new ChromeDriver();
-       driver.get("file:///Users/cigdemayyildiz/Desktop/Techtorial/Selenium/Projects/Project1/resume.html");
+        WebDriver driver = new ChromeDriver();
+        driver.get("file:///Users/cigdemayyildiz/Desktop/Techtorial/Selenium/Projects/Project1/resume.html");
 
         WebElement clickContact = driver.findElement(By.partialLinkText("Contact"));
         clickContact.click();
