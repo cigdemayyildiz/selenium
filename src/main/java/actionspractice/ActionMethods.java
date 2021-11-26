@@ -35,5 +35,4 @@ public class ActionMethods {
                 .sendKeys(Keys.RETURN) // enter a bas
                 .perform();
     }
-
 }
