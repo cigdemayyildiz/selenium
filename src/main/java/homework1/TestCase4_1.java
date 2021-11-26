@@ -29,7 +29,5 @@ public class TestCase4_1 {
         }else{
             System.out.println(false);
         }
-
-
     }
 }

@@ -55,6 +55,5 @@ public class TestCase2 {
         }else{
             System.out.println(false);
         }
-
     }
 }

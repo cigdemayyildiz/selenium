@@ -29,6 +29,5 @@ public class TestCase4_2 {
         }else{
             System.out.println(false);
         }
-
     }
 }

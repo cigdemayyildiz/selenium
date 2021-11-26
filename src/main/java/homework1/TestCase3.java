@@ -37,6 +37,5 @@ public class TestCase3 {
         }else{
             System.out.println(false);
         }
-
     }
 }
