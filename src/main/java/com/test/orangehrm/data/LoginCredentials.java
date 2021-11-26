@@ -18,6 +18,5 @@ public class LoginCredentials {
                 {"test", "test", "Invalid credentials"},
                 {"test", "admin123", "Invalid credentials"}
         };
-
     }
 }
