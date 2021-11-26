@@ -33,9 +33,5 @@ public class Iframe {
         String actualHeader = header.getText().trim();
         String expectedHeader = "An iFrame containing the TinyMCE WYSIWYG Editor";
         Assert.assertEquals(actualHeader, expectedHeader, "header validation");
-
-
-
-
     }
 }

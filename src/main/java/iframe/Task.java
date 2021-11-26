@@ -49,6 +49,5 @@ public class Task {
         Assert.assertEquals(driver.getCurrentUrl(), "https://qavalidation.com/category/softwaretesting/");
 
         driver.quit();
-
     }
 }

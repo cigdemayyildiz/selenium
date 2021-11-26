@@ -53,7 +53,5 @@ public class NestedIframe {
 
         WebElement left = driver.findElement(By.tagName("body"));
         Assert.assertEquals(left.getText().trim(), "LEFT", "left text validation");
-
     }
-
 }
