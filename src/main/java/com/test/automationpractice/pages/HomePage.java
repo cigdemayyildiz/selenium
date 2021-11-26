@@ -148,6 +148,4 @@ public class HomePage {
         }
         return discountMap.get(cheapestProductOldPrice);
     }
-
-
 }
