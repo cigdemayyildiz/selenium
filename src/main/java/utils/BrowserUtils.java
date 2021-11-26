@@ -12,7 +12,6 @@ public class BrowserUtils {
 
     // we will create our reusable methods related with browser inside the BrowserUtils class
 
-
     // Method that accepts three param- WebElement, Value and MethodName
     // SelectByVisibleText
     public static void selectBy(WebElement element, String value, String methodName){
@@ -86,5 +85,4 @@ public class BrowserUtils {
             e.printStackTrace();
         }
     }
-
 }
