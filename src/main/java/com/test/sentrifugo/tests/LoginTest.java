@@ -57,6 +57,5 @@ public class LoginTest extends TestBase {
         LoginPage loginPage = new LoginPage(driver);
         loginPage.clickLogin();
         Assert.assertEquals(loginPage.getColor(), "rgba(255, 0, 0, 1)");
-
     }
 }
