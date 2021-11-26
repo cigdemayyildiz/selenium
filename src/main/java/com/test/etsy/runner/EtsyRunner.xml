@@ -1,5 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Etsy Runner">
+
     <test name="Search Bar">
         <parameter name="item" value="java programming mug"></parameter>
         <parameter name="item1" value="gifts for him"></parameter>
