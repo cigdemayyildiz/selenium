@@ -32,6 +32,5 @@ public class GenderTest extends TestBase {
         String genderNameColor = genderPage.getGenderNameColor();
         Assert.assertEquals(genderCodeColor,"rgba(255, 0, 0, 1)");
         Assert.assertEquals(genderNameColor,"rgba(255, 0, 0, 1)");
-
     }
 }
