@@ -27,9 +27,5 @@ public class AlertIntro {
         WebElement result = driver.findElement(By.id("result"));
         String resultText = result.getText().trim();
         Assert.assertEquals(resultText, "You successfully clicked an alert", "result text validation");
-
-
-
     }
-
 }
