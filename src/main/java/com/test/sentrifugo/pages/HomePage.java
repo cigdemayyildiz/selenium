@@ -24,5 +24,4 @@ public class HomePage {
     public void clickGenderButton(){
         genderButton.click();
     }
-
 }
