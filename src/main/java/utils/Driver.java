@@ -57,5 +57,4 @@ public class Driver {
         driver.quit();
         driver = null; // null a cevirmek istiyoruz ki bir sonraki getDriver kullaniminda driver in null oldugundan emin olmak istiyoruz
     }
-
 }
