@@ -43,7 +43,6 @@ public class HomePage {
 
     // homework: change validateTitle() method implementation that will work with all the search values.
     // now it is working only with "java programming mug"
-
     public boolean validateTitle1(String searchText){
         boolean hasKey = false;
         for (WebElement title : searchTitle){
