@@ -34,6 +34,5 @@ public class TestCase6 {
         String actualMessage = BrowserUtils.getText(droppable);
         String expectedMessage = "Dropped!";
         Assert.assertEquals(actualMessage, expectedMessage);
-
     }
 }

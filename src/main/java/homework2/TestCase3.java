@@ -46,6 +46,5 @@ public class TestCase3 {
         driver.navigate().back();
 
         Assert.assertEquals(driver.getCurrentUrl(), "https://www.saucedemo.com/");
-
     }
 }

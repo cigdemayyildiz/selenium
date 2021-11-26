@@ -57,6 +57,5 @@ public class TestCase1 {
             actualAllProducts.add(product.getText());
         }
         Assert.assertEquals(expectedAllProducts, actualAllProducts);
-
     }
 }

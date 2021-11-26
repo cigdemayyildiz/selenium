@@ -60,6 +60,5 @@ public class TestCase2 {
         }
 
         Assert.assertEquals(actualAllPrices, expectedAllPrices);
-
     }
 }

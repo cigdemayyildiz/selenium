@@ -32,6 +32,5 @@ public class TestCase5 {
         selectOne.click();
         actions.sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ARROW_DOWN)
                                     .sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.RETURN).perform();
-
     }
 }

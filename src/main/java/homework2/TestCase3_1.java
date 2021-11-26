@@ -69,6 +69,5 @@ public class TestCase3_1 {
         }else {
             throw new AssertionError("Price on cart and price on shopping page is not matched");
         }
-
     }
 }

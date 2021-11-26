@@ -98,7 +98,5 @@ public class TestCase4 {
         String actualText = thankYouTex.getText();
         String expectedText = "THANK YOU FOR YOUR ORDER";
         Assert.assertEquals(actualText,expectedText, "Thank you message validation");
-
-
     }
 }
