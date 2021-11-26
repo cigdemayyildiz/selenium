@@ -24,6 +24,5 @@ public class MultipleSelect {
 
         select.deselectByVisibleText("Three"); // use deselect method to unselect
         select.deselectByValue("4");
-
     }
 }

@@ -42,6 +42,4 @@ public class SelectMethods {
             return isSorted(listOfStrings, index - 1);
         }
     }
-
-
 }

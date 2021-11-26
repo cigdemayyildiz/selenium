@@ -10,7 +10,5 @@ public class FlightTicket {
     public void test(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.spicejet.com/");
-
     }
-
 }

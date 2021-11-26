@@ -33,5 +33,4 @@ public class SelectClassIntro {
         Assert.assertEquals(actualFirstSelected,expectedFirstSelected,"first selected"); // message will appear
         // if code will be failed, we put assertion at the end of the codes
     }
-
 }

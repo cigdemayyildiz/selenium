@@ -16,7 +16,6 @@ public class Porsche {
     Click search button
     Validate header is equals to "New Porsche 911 for sale"
      */
-
     @Test
     public void test(){
         WebDriver driver = new ChromeDriver();
