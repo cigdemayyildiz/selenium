@@ -48,7 +48,7 @@ public class TestBase {
 
     }
 
-    // singleton design patterdan once
+//    singleton design patterdan once
 //    @AfterMethod
 //    public void tearDown(){
 //        driver.quit();
