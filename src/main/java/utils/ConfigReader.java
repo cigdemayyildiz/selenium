@@ -21,5 +21,4 @@ public class ConfigReader {
         }
         return properties.getProperty(key); // I can read the values from properties object using the key.
     }
-
 }
