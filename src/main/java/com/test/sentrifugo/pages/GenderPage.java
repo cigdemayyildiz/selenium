@@ -53,6 +53,4 @@ public class GenderPage {
     public String getGenderNameColor(){
         return genderNameErrorMessage.getCssValue("color");
     }
-
-
 }
