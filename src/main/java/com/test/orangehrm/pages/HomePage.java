@@ -49,5 +49,4 @@ public class HomePage {
         }
         return isRoleTextCorrect;
     }
-
 }
