@@ -65,5 +65,4 @@ public class LoginPage {
         String text = incorrectText.getText().trim();
         return text;
     }
-
 }
