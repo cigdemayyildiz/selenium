@@ -43,5 +43,4 @@ public class DepartmentPage {
     public String getSuccessMessage(){
         return BrowserUtils.getText(successMessage);
     }
-
 }
