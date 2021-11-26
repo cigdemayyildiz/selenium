@@ -34,7 +34,6 @@ public class ActionMethods {
                 .keyUp(Keys.COMMAND) // command dan kaldir
                 .sendKeys(Keys.RETURN) // enter a bas
                 .perform();
-
     }
 
 }
