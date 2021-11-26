@@ -25,6 +25,5 @@ public class AlertPrompt {
         WebElement result = driver.findElement(By.id("result"));
         String resultText = result.getText().trim();
         Assert.assertEquals(resultText, "You entered: Techtorial", "result text validation");
-
     }
 }
