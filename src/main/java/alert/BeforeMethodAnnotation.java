@@ -48,4 +48,5 @@ public class BeforeMethodAnnotation {
         Alert alert1 = driver.switchTo().alert();
         alert1.accept();
     }
+
 }
