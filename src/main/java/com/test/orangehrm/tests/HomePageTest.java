@@ -24,6 +24,4 @@ public class HomePageTest extends TestBase {
         homePage.selectUserRole("1");
         homePage.clickSearchButton();
     }
-
-
 }
