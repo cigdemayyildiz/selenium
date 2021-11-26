@@ -66,6 +66,5 @@ public class JavaScript {
 
         WebElement studentLogin = driver.findElement(By.xpath("(//a[.='Student login'])[2]"));
         javascriptExecutor.executeScript("arguments[0].scrollIntoView(true)", studentLogin);
-
     }
 }

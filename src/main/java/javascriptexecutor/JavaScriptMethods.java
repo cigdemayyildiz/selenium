@@ -25,6 +25,5 @@ public class JavaScriptMethods {
         javascriptExecutor.executeScript("window.scrollTo("+xCoordinate+","+yCoordinate+")");
 
         javascriptExecutor.executeScript("history.go(0)"); // refresh
-
     }
 }
