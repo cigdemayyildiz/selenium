@@ -32,5 +32,4 @@ public class LoginPage {
     public String getErrorMessage(){
         return errorMessage.getText();
     }
-
 }
