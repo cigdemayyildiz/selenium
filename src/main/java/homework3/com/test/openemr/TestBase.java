@@ -20,8 +20,8 @@ public class TestBase {
         driver.get("https://demo.openemr.io/openemr");
     }
 
-//    @AfterMethod
-//    public void tearDown(){
-//        driver.quit();
-//    }
+    @AfterMethod
+    public void tearDown(){
+        driver.quit();
+    }
 }

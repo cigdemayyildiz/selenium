@@ -7,7 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
-
     /*
     Search the "Phil Belford" from the search box under the patient finder
     Validate Name
@@ -62,7 +61,4 @@ public class PatientFinderPage {
     public String getSsnNumber(){
         return this.ssnNumber.getText();
     }
-
-
-
 }

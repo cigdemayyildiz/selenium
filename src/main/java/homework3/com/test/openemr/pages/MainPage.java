@@ -22,13 +22,4 @@ public class MainPage {
         pageMenus.click();
         findPatient.click();
     }
-
-
-
-
-
-
-
-
-
 }
