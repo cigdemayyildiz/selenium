@@ -21,6 +21,4 @@ public class AdminSearchTest extends TestBase {
         homePage.clickSearchButton();
         Assert.assertTrue(homePage.validateRoleText(roleName));
     }
-
-
 }
