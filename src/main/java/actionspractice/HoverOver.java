@@ -33,6 +33,5 @@ public class HoverOver {
         }
         Assert.assertEquals(actualNames, expectedNames);
 
-
     }
 }
