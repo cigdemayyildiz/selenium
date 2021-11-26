@@ -59,6 +59,5 @@ public class SwitchWindow {
         }
         driver.switchTo().window(mainWindowId);
         Assert.assertEquals(driver.getTitle(), "The Internet");
-
     }
 }

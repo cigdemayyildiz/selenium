@@ -35,8 +35,6 @@ public class NewWindow {
             }
         }
         System.out.println(driver.getTitle());
-
-
     }
 
     @Test
@@ -95,6 +93,5 @@ public class NewWindow {
 
         // test2 den farkli olarak buraya method cagirarak yaptik
         BrowserUtils.closeWindowsByTitle(driver, mainTitle);
-
     }
 }
