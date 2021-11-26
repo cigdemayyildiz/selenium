@@ -6,7 +6,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginNegativeTest extends TestBase {
-
     /*
     Test Case 1
     1- go to the page
