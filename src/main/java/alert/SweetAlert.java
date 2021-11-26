@@ -45,5 +45,4 @@ public class SweetAlert {
         Alert alert1 = driver.switchTo().alert();
         alert1.accept();
     }
-
 }
