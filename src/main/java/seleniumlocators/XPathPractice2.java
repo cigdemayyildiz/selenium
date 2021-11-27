@@ -20,7 +20,5 @@ public class XPathPractice2 {
         System.out.println(pTwo.getText());
 
         driver.navigate().back();
-
-
     }
 }
