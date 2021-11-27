@@ -33,10 +33,5 @@ public class SeleniumMethods {
         System.out.println(driver.getCurrentUrl()); // https://www.techtorialacademy.com/
 
         System.out.println(driver.getPageSource()); // returns the html from the page
-
-
-
-
     }
-
 }
