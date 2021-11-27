@@ -16,7 +16,6 @@ public class TestNGAssertions {
     //  3 * 0 = 0
     //  3 * 2 = 6
     // -2 * -3 = 6
-
     @Test
     public void validateNegative(){
         int result = getMultiplication(-2,4);
