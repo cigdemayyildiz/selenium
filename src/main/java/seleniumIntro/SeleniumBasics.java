@@ -23,9 +23,5 @@ public class SeleniumBasics {
             System.out.println("false");
 
         System.out.println(driver.getCurrentUrl());
-
-
-
     }
-
 }
