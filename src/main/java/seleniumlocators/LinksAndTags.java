@@ -47,6 +47,5 @@ public class LinksAndTags {
         Thread.sleep(3000); // before close the browser it'll wait for 3sec
 
         driver.quit(); // it will close the browser
-
     }
 }
