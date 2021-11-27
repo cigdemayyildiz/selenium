@@ -36,6 +36,5 @@ public class TaskCase1 {
         // get(); doesn't have methods
         // navigate().to(); waits for the specific element that you are looking for
         // navigate() has also some methods like forward, refresh, back...
-
     }
 }

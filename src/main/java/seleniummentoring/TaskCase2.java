@@ -31,6 +31,5 @@ public class TaskCase2 {
 
         Thread.sleep(1000);
         driver.close();
-
     }
 }

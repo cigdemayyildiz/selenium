@@ -45,7 +45,5 @@ public class TaskCase5 {
         javascriptExecutor.executeScript("arguments[0].scrollIntoView(true)", submitButton);
         submitButton.click();
          */
-
-
     }
 }

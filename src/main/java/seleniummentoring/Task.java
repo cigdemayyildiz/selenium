@@ -83,6 +83,4 @@ public class Task {
     9. Repeat steps 5 to 8 for other menu links.
     10. Close the browser.
      */
-
-
 }

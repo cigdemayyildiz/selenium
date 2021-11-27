@@ -58,6 +58,5 @@ public class TaskCase4 {
         }
 
         driver.close();
-
     }
 }
