@@ -60,6 +60,5 @@ public class LocatorsIntro {
         System.out.println(checkCucumberBox.isDisplayed()); // true --> it will return true since cucumber element is
                                                            // displayed on the page.
         // displayed sayfa da var mi yok mu goruntuleniyor mu onu kontrol ediyor
-
     }
 }
