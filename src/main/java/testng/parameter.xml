@@ -7,5 +7,6 @@
         <classes>
             <class name="testng.ParameterAnnotation"></class>
         </classes>
+
     </test>
 </suite>
