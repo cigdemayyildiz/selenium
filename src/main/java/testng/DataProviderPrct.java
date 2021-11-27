@@ -44,14 +44,10 @@ public class DataProviderPrct {
 
     // Object object = new Object[2][3]; --> eger tanimlamayi basta yapsaydik bu seklinde olurdu
     @Test(dataProvider = "NameTest",  dataProviderClass = Data.class)
-        public void test(String fName, String lName, String expected){
-            String firstName = fName;
-            String lastName = lName;
-            String fullName = firstName+" "+lastName;
-            Assert.assertEquals(fullName,expected);
-        }
-
-
-
-
+    public void test(String fName, String lName, String expected){
+        String firstName = fName;
+        String lastName = lName;
+        String fullName = firstName+" "+lastName;
+        Assert.assertEquals(fullName,expected);
+    }
 }
