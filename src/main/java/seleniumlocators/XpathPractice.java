@@ -20,6 +20,5 @@ public class XpathPractice {
         WebElement content = driver.findElement(By.xpath("//h4[@class='subheader']")); // relative path
 
         System.out.println(content.getText());
-
     }
 }
