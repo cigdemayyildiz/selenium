@@ -18,5 +18,4 @@ public class ParameterAnnotation {
     public void test1(String city, String state){
         System.out.println(city+", "+state);
     }
-
 }
