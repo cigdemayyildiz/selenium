@@ -56,8 +56,5 @@ public class CheckBoxPractice {
 //
 //        WebElement clickExcelFile = driver.findElement(By.xpath("//label[@for='tree-node-excelFile']"));
 //        clickExcelFile.click();
-
-
-
     }
 }
