@@ -18,7 +18,5 @@ public class EtsyPractice {
         String expectedText = "Bring on the holidays! Discover meaningful finds.";
 
         Assert.assertEquals(actualText,expectedText,"Etsy Header");
-
     }
-
 }
