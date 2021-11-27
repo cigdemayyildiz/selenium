@@ -28,6 +28,5 @@ public class IPhone13 {
         }else{
             System.out.println("false");
         }
-
     }
 }
