@@ -26,6 +26,5 @@ public class GoogleSearch {
         }else{
             System.out.println(false);
         }
-
     }
 }
