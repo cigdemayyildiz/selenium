@@ -18,5 +18,4 @@ public class TestNGIntro {
     public void test(){
         System.out.println("test3");
     }
-
 }
