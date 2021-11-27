@@ -58,5 +58,4 @@ public class TestNGAnnotations {
     public void afterSuite(){
         System.out.println("After Suite");
     }
-
 }
