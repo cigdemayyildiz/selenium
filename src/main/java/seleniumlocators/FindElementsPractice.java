@@ -29,7 +29,5 @@ public class FindElementsPractice {
             }
         }
         System.out.println("There are " +count+" elements less than 12 characters.");
-
-
     }
 }
