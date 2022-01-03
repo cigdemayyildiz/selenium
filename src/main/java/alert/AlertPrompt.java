@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 
 public class AlertPrompt {
 
+
     @Test
     public void jsPromptValidation(){
         WebDriver driver = new ChromeDriver();
