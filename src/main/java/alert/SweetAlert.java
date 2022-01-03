@@ -13,7 +13,6 @@ public class SweetAlert {
     @Test
     public void sweetAlert() throws InterruptedException {
 
-
         WebDriver driver = new ChromeDriver();
         driver.get("https://sweetalert.js.org/");
 
