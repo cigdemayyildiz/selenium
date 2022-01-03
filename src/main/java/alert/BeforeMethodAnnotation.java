@@ -13,6 +13,7 @@ public class BeforeMethodAnnotation {
 
     WebDriver driver;
 
+
     @BeforeMethod
     public void setUp(){
         System.out.println("It will run before each @Test annotation");
